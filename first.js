@@ -1,11 +1,5 @@
-fullname="prince jaiswal"
-console.log(fullname);
-const profile={
-holdername:shradhakhapra,
-posts:196,
-followers:76,
-
-
-
-
+function myfunction(msg){
+    // parameter ->input
+    console.log(msg);
 }
+myfunction("I love Js");
