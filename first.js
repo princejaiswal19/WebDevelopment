@@ -1,5 +1,2 @@
-function myfunction(msg){
-    // parameter ->input
-    console.log(msg);
-}
-myfunction("I love Js");
+console.log("say hello");
+alert("hey you");
