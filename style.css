@@ -1,11 +1,6 @@
-h1{
-    color:blue;
+div{
+    height:70px;
+    width:100px;
     background-color: yellow;
-}
-body{
-    background-color: pink;
-}
-button{
-    background-color: blue;
-    color:white;
+    color:black;
 }
